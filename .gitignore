@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+*.egg-info/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Tensorflow model checkpoints
+*.ckpt
+checkpoint/
+saved_model/
+
+# Large datasets
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.pb
+*.npy
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db
