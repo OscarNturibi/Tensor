@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.74f4518b-8c0c-11f0-bc33-da1d3f63b4f0.jpg</filename>
+	<path>C:\Users\ADMIN\Documents\Faz\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.74f4518b-8c0c-11f0-bc33-da1d3f63b4f0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>178</ymin>
+			<xmax>412</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
